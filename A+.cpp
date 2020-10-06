@@ -41,8 +41,8 @@ int main()
             }
             //2) prawe "A":
             std::cout << "A\n" ;
-            //i mamy to!!!!!.....
-            //PIERWSZY NIEBANALNY PROJEKT C++ UKOŃCZONY!!!
+            //i mamy to!
+
             
         }
             std::cout << "\n\n";
